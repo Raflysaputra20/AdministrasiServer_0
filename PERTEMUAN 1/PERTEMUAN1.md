@@ -4,7 +4,7 @@ masuk kedalam aws.amazon.com
 
 lalu klik buat akun
 
-<img width="1365" height="729" alt="image" src="https://github.com/user-attachments/assets/409ba880-af8c-4638-9bfb-edc192d14309" />
+<img width="1362" height="726" alt="image" src="https://github.com/user-attachments/assets/9c221a7b-941b-419d-ad44-b02225e99f96" />
 
 kemudian buat password nya ketika suda verify
 
@@ -33,4 +33,5 @@ contoh sukses
 tampilan akun dashboard nya
 
 <img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/5c471695-6158-4246-8f3a-dc3184456a68" />
+
 
