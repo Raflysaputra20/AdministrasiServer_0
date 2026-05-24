@@ -37,6 +37,8 @@
 ![alt text](image-5.png)
 19. Akses web melalui Browser login admin edit Layanan
 ![alt text](image-6.png)
+<img width="1363" height="767" alt="image" src="https://github.com/user-attachments/assets/8429f0fd-602a-47f5-8d5d-491bc1fedbf1" />
+
 
 Referensi :
 - https://github.com/moh-firdaus/himafor_nim
