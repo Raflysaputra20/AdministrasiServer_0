@@ -34,7 +34,8 @@
 17. Cek di Github, apakah actions jalan dan berhasil
 ![alt text](image-4.png)
 18. Cek di AWS, apakah container berjalan dengan baik
-![alt text](image-5.png)
+<img width="1365" height="762" alt="image" src="https://github.com/user-attachments/assets/112fa2e3-db95-4afa-b97c-753afc0710c7" />
+
 19. Akses web melalui Browser login admin edit Layanan
 ![alt text](image-6.png)
 <img width="1363" height="767" alt="image" src="https://github.com/user-attachments/assets/8429f0fd-602a-47f5-8d5d-491bc1fedbf1" />
